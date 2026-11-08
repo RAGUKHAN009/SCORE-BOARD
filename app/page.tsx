@@ -51,19 +51,19 @@ export default function Home() {
                   <div className="TeamScoreCont">
 
                     <p className="TeamScore">
-                      Win: {team.win}|
+                      Win: |{team.win}|
                     </p>
 
                     <p className="TeamScore">
-                      Loss: {team.loss}|
+                      Loss: |{team.loss}|
                     </p>
 
                     <p className="TeamScore">
-                      Draw: {team.draw}|
+                      Draw: |{team.draw}|
                     </p>
 
                     <p className="TeamScore">
-                      GD: {team.goalDifference}
+                      GD: |{team.goalDifference}|
                     </p>
 
                   </div>
