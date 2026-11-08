@@ -131,7 +131,7 @@ export const GROUP4 = [
     // TUFAN FC
     {
         teamName: "TUFAN FC",
-        teamLogo: "/TEAM26/TEAM26.png",
+        teamLogo: "/TEAM26/",
         win: 0,
         loss: 0,
         draw: 0,
@@ -213,7 +213,7 @@ export const GROUP7 = [
     // TUFAN FC JR
     {
         teamName: "TUFAN FC JR",
-        teamLogo: "/TEAM26/TEAM26.png",
+        teamLogo: "/TEAM26/",
         win: 0,
         loss: 0,
         draw: 0,
@@ -271,7 +271,7 @@ export const GROUP8 = [
     // SHAHI FC
     {
         teamName: "SHAHI FC",
-        teamLogo: "/TEAM26/TEAM26.png",
+        teamLogo: "/TEAM26/",
         win: 0,
         loss: 0,
         draw: 0,
@@ -340,7 +340,7 @@ export const GROUP10 = [
     },
     // HINDU KUSH STRICKERS
     {
-        teamName: "Hindu Kush .S",
+        teamName: "Hindu Kush Stricker",
         teamLogo: "/TEAM1/HKS_LOGO.jpg",
         win: 0,
         loss: 0,
@@ -472,7 +472,7 @@ export const GROUP14 = [
     // ALL STARS FC
     {
         teamName: "ALL STARS FC",
-        teamLogo: "/TEAM26/TEAM26.png",
+        teamLogo: "/TEAM26/",
         win: 0,
         loss: 0,
         draw: 0,
@@ -496,7 +496,7 @@ export const GROUP15 = [
     // CORINTHIANS
     {
         teamName: "CORINTHIANS",
-        teamLogo: "/TEAM26/TEAM26.png",
+        teamLogo: "/TEAM26/",
         win: 0,
         loss: 0,
         draw: 0,
